@@ -2,17 +2,17 @@
 Basic to Advanced
 
 Machine-Learning/
-├── 1_Linear_Algebra/
-├── 2_Probability_and_Statistics/
-├── 3_Introduction_to_Machine_Learning/
-├── 4_Data_Preprocessing_and_Cleaning/
-├── 5_Exploratory_Data_Analysis/
-├── 6_Feature_Engineering_and_Extraction/
-├── 7_Machine_Learning_Algorithms/
-├── 8_Model_Evaluation_and_Validation/
-├── 9_Hyperparameter_Tuning_and_Optimization/
-├── 10_Model_Deployment_and_Serving/
-├── 11_Advanced_Topics/
+├── 1_Linear_Algebra/ <br/>
+├── 2_Probability_and_Statistics/ <br/>
+├── 3_Introduction_to_Machine_Learning/<br/>
+├── 4_Data_Preprocessing_and_Cleaning/<br/>
+├── 5_Exploratory_Data_Analysis/<br/>
+├── 6_Feature_Engineering_and_Extraction/<br/>
+├── 7_Machine_Learning_Algorithms/<br/>
+├── 8_Model_Evaluation_and_Validation/<br/>
+├── 9_Hyperparameter_Tuning_and_Optimization/<br/>
+├── 10_Model_Deployment_and_Serving/<br/>
+├── 11_Advanced_Topics/<br/>
 
 
 **Description:**
