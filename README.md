@@ -24,6 +24,18 @@ This repository serves as an in-depth resource for anyone interested in understa
 1. **Introduction to Linear Algebra**:
    - Fundamental concepts of vectors, matrices, and operations.
    - Applications in machine learning, including dimensionality reduction and transformations.
+   **Subtopics:**
+   - **Vectors and Matrices**
+     - Definitions and operations
+     - Visualizations
+   - **Matrix Operations**
+     - Addition, multiplication, inversion, transpose
+   - **Determinants and Eigenvalues**
+     - Concepts and computations
+   - **Linear Transformations**
+     - Applications in ML
+   - **Singular Value Decomposition (SVD)**
+     - Importance in dimensionality reduction
 
 2. **Introduction to Probability and Statistics**:
    - Key principles of probability theory and statistical analysis.
