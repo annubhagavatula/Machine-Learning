@@ -1,7 +1,7 @@
 # Machine-Learning
 ## Basic to Advanced
 
-Machine-Learning/<br/>
+Machine-Learning<br/>
 ├── 1_Linear_Algebra/ <br/>
 ├── 2_Probability_and_Statistics/ <br/>
 ├── 3_Introduction_to_Machine_Learning/<br/>
