@@ -5,7 +5,7 @@ Machine-Learning<br/>
 ├── 1_Linear_Algebra <br/>
 ├── 2_Probability_and_Statistics <br/>
 ├── 3_Introduction_to_Machine_Learning<br/>
-├── 4_Data_Preprocessing_and_Cleaning<br/>
+├── 4_Data_Preprocessing<br/>
 ├── 5_Exploratory_Data_Analysis<br/>
 ├── 6_Feature_Engineering_and_Extraction<br/>
 ├── 7_Machine_Learning_Algorithms<br/>
